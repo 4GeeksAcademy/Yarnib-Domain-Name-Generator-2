@@ -1,14 +1,11 @@
 /* eslint-disable */
-import "bootstrap";
-import "./style.css";
+//import "bootstrap";
+//import "./style.css";
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
+//import "./assets/img/rigo-baby.jpg";
+//import "./assets/img/4geeks.ico";
 
-window.onload = function() {
-  //write your code here
-  
-};
+
 // Define the lists of pronouns, adjectives, nouns, and extensions
 const pronouns = ["the", "our"];
 const adjectives = ["great", "big"];
